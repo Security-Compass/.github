@@ -1,4 +1,8 @@
 # .github
 Free threat model templates and STRIDE/LINDDUN checklists for REST APIs, Kubernetes, OAuth, serverless and LLM apps. Ready to use, fork and improve.
+## Guides and reports
+- **[Research Reports](https://www.securitycompass.com/reports/?utm_source=github&utm_campaign=org_profile)**
+- **[Guides](https://www.securitycompass.com/whitepapers/?utm_source=github&utm_campaign=org_profile)**
+- **[Datasheets](https://www.securitycompass.com/datasheets/?utm_source=github&utm_campaign=org_profile)**
 ## Build your own threat model
 Turn any template into a working model with [Devici](https://app.devici.com/sign-up?utm_source=github&utm_campaign=org_profile), free, with no credit card and no time limit.
